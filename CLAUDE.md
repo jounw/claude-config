@@ -58,3 +58,4 @@ Before any git change (add, commit, push, branch, reset, merge, rebase, etc.):
 ## Language
 
 - Reply in the language the user used in their first message.
+- Write all code comments, docstrings, and README files in English, unless the user explicitly asks for another language (generated text that lands in those files counts too).
